@@ -1,0 +1,9 @@
+# To start the game follow the steps below
+1. Clone the project into your machine using terminal.
+2. cd to project directory
+3. Make sure you have ruby 2.7.1 version installed before to go to next step.
+4. Run `bundle install` to have all the dependencies installed.
+5. Run command `ruby init.rb` to start the game and follow the instructions.
+6. To end the game give command `END` or press `CTRL-D`.
+7. To run the test cases run `rspec`
+Thank you
